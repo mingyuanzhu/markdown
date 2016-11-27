@@ -11,17 +11,3 @@
 |ctrl + alt + up/down|     cmd + d      |      copy
 |cmd+shift + f |              cmd + alt + l    |             format
 |alt + up/down |             cmd+shift+up/down  |   move line
-|
-
-
-
-
-|Round| Times| Winner|
-|-----|------|-------|
-1|1443|player 1
-2|2831|player 2
-3|3000|player 2
-4|707|player 1
-5|4567|player 2
-6|
-
